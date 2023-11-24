@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+    <test name="Test">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="example.TablePractice"></class>
+        </classes>
+    </test>a
+</suite>
